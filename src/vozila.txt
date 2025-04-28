@@ -1,0 +1,4 @@
+Automobil,ZG1254jk,Toyota,2020,4
+Automobil,ST2344jk,Renault,2014,3
+Motocikl,SI7654es,Yamaha,2018,Sport
+Motocikl,KR4587es,Honda,2023,Elegance
